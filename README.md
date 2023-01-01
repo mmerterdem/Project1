@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 ----------------------------------------------
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Resim](https://github.com/mmerterdem/Project1/blob/c923b66a124450c0c9cd6fa347a0b38c69f32947/Project1.png)
 
@@ -28,7 +28,7 @@ Contributing
 - ----------------------------------------------
 
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğizi tarışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğizi tartışmak için bir konu açınız.
 
 ## License 
 -----------------------------------------------
